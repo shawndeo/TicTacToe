@@ -252,4 +252,8 @@ def main():
 
     checkWinP1()
 
+    print('No one won!')
+
+    main()
+
 main()
